@@ -1,26 +1,23 @@
 #+TITLE: Tomás Bizet
 #+OPTIONS: toc:nil num:nil
 
-* Tomás Bizet
+* Overview
 
-Web Developer with professional experience building and maintaining production web applications.
+Full-stack web engineer with production experience across the JavaScript/TypeScript ecosystem.
+I care about typed interfaces, clear separation between layers, and codebases that remain readable as they scale.
+Most of my professional work lives in private repositories. This profile contains personal projects that reflect how I approach software design.
 
-Most of my day-to-day work is in private repositories. This profile contains selected personal projects that reflect how I structure and approach software outside of work.
+* Stack
 
-* Engineering Focus
++ *Languages:* TypeScript, Python, Rust
++ *Frontend:* Vue/Nuxt, React/Next, SvelteKit
++ *Backend:* Node.js, RESTful API design, relational and graph databases
++ *Tooling & Environment:* Linux, Docker, Git
 
-+ Full-stack TypeScript development (Vue/Nuxt, React/Next, Node.js)
-+ Designing scalable UI architectures and reusable component systems
-+ Defining and maintaining typed data contracts across client and server
-+ Designing and integrating RESTful backend services
-+ Modeling and querying relational and graph databases
-+ Refactoring legacy systems toward clearer boundaries and long-term maintainability
-+ Balancing delivery speed with sustainable system design
+* What I Focus On
 
-* Approach
-
-+ Building codebases that remain understandable as they grow
-+ Maintaining consistent type guarantees across application layers
-+ Keeping UI, state management, and data access clearly separated
-+ Refactoring safely and incrementally in production environments
-+ Making pragmatic trade-offs between short-term delivery and long-term maintainability
++ Designing component systems and UI architectures that scale without becoming fragile
++ Maintaining typed contracts across client, server, and data layers
++ Refactoring incrementally in production, improving structure without stalling delivery
++ Keeping state management, data access, and presentation cleanly separated
++ Working comfortably across the stack, from database schema to deployed frontend
