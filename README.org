@@ -1,0 +1,26 @@
+#+TITLE: Tomás Bizet
+#+OPTIONS: toc:nil num:nil
+
+* Tomás Bizet
+
+Web Developer with professional experience building and maintaining production web applications.
+
+Most of my day-to-day work is in private repositories. This profile contains selected personal projects that reflect how I structure and approach software outside of work.
+
+* Engineering Focus
+
++ Full-stack TypeScript development (Vue/Nuxt, React/Next, Node.js)
++ Designing scalable UI architectures and reusable component systems
++ Defining and maintaining typed data contracts across client and server
++ Designing and integrating RESTful backend services
++ Modeling and querying relational and graph databases
++ Refactoring legacy systems toward clearer boundaries and long-term maintainability
++ Balancing delivery speed with sustainable system design
+
+* Approach
+
++ Building codebases that remain understandable as they grow
++ Maintaining consistent type guarantees across application layers
++ Keeping UI, state management, and data access clearly separated
++ Refactoring safely and incrementally in production environments
++ Making pragmatic trade-offs between short-term delivery and long-term maintainability
