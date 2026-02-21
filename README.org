@@ -1,14 +1,17 @@
-Full-stack web engineer. Typed interfaces, clean layers, readable codebases.
+#+begin_src ini
+[identity]
+name = Tomás Bizet
+role = Full-stack Web Engineer
 
-Most of my professional work lives in private repos.
+[languages]
+primary = TypeScript, Python
+systems = Rust, C
 
-** Stack
+[stack]
+frontend = Vue/Nuxt, React/Next, SvelteKit
+backend = Node.js, Supabase, PostgreSQL, Elasticsearch
+infra = Linux, Docker, Cloudflare Workers
 
-| Languages | TypeScript, Python, Rust, C                       |
-| Frontend  | Vue/Nuxt, React/Next, SvelteKit                   |
-| Backend   | Node, Supabase, PostgreSQL, Elasticsearch         |
-| Infra     | Linux, Docker, Cloudflare Workers, GitHub Actions |
-
-#+html: <br>
-#+html: <img src="https://github-readme-stats.vercel.app/api?username=NasreddinHodja&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" />
-#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasreddinHodja&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" />
+; most professional work lives in private repositories
+; public repos reflect how I think about software
+#+end_src
