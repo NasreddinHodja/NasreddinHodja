@@ -1,24 +1,14 @@
-#+OPTIONS: toc:nil num:nil
+Full-stack web engineer. Typed interfaces, clean layers, readable codebases.
 
-Full-stack web engineer with production experience across the JavaScript/TypeScript ecosystem.
+Most of my professional work lives in private repos.
 
-I care about typed interfaces, clear separation between layers, and codebases that remain readable as they scale.
+** Stack
 
-Most of my professional work lives in private repositories. This profile contains personal projects that reflect how I approach software design.
+| Languages | TypeScript, Python, Rust, C                       |
+| Frontend  | Vue/Nuxt, React/Next, SvelteKit                   |
+| Backend   | Node, Supabase, PostgreSQL, Elasticsearch         |
+| Infra     | Linux, Docker, Cloudflare Workers, GitHub Actions |
 
-* Stack
-
-+ *Languages:* TypeScript, Python, Rust, C
-+ *Frontend:* Vue/Nuxt, React/Next, SvelteKit
-+ *Backend:* Node.js, Supabase, PostgreSQL, Elasticsearch, REST APIs
-+ *Mobile:* Capacitor (iOS/Android)
-+ *Infra:* Linux, Docker, Cloudflare Workers, GitHub Actions
-
-* What I Focus On
-
-+ Designing component systems and UI architectures that scale without becoming fragile
-+ Maintaining typed contracts across client, server, and data layers
-+ Refactoring incrementally in production, improving structure without stalling delivery
-+ Keeping state management, data access, and presentation cleanly separated
-+ Working comfortably across the stack, from database schema to deployed frontend
-
+#+html: <br>
+#+html: <img src="https://github-readme-stats.vercel.app/api?username=NasreddinHodja&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9&count_private=true" height="165" />
+#+html: <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NasreddinHodja&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165" />
